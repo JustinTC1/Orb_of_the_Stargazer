@@ -1,0 +1,12 @@
+dependencies:
+  p5: 1.0.0
+packages:
+  /p5/1.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-SYYc6NSHA/mMoF00SdI39FmhifMWl0B74/Bg3T793v+KOAWgXsBfr7snv9cjHFqpcmjtJMuZSOoA55qAETCu1w==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  p5: ^1.0.0
